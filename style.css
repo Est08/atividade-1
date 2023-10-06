@@ -6,3 +6,23 @@ h1{
     font-size: 80px;
     text-align: center;
 }
+.cabecalho{
+    background-color: rgb(228, 140, 99);
+    display: flex;
+}
+.logoimg{
+    width: 500px;
+    height: 500px;
+}
+.istacabecalho{
+    display: flex;
+    margin-left: 700px;
+    margin-top: 200pc;
+}
+.itemlistacabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 35px;
+    color: rgb(216, 164, 129);
+    padding-left: 30pc;
+}
